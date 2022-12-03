@@ -1,3 +1,12 @@
+######################
+#
+# Paper and Pencil Binary Decimal Multiplication
+# with Python
+# compatible with binary, decimal and hexadecimal
+#
+######################
+
+
 # convert binary number
 def converter(cond, A, B):
     if cond == 1:
