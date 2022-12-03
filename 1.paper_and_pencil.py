@@ -75,6 +75,3 @@ B = input('두번째 수를 입력하세요: ')
 
 a, b = converter(condition, A, B)
 paper_pencil_mul(a, b)
-
-real = bin(int(a, 2) * int(b, 2))
-print(real[2:])
