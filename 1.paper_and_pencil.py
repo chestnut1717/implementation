@@ -2,7 +2,9 @@
 #
 # Paper and Pencil Binary Decimal Multiplication
 # with Python
-# compatible with binary, decimal and hexadecimal
+# compatible with binary, decimal and hexadecimal (input) => binary(output)
+# only unsigned integer computation possible
+# https://www.exploringbinary.com/binary-multiplication/
 #
 ######################
 
